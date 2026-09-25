@@ -1,0 +1,15 @@
+PART 1 — Define the AI Problem (Week 1) 
+No code this week. This part is a written formalization only. 
+Task: write the formal definition of the CampusMind navigation problem, using the campus given 
+in Section 2. 
+Deliverable: 01_problem-definition.pdf, containing: 
+A. Problem statement — explain the practical problem in your own words 
+B. Initial state — the starting location 
+C. Goal state — the destination 
+D. State representation — what one state looks like, e.g. CurrentLocation = 
+Administration Block 
+E. Actions — what movements are allowed 
+F. Goal test — how the system knows it has arrived 
+G. Cost — what the numbers on each connection represent 
+H. State-space graph — draw the six-location graph yourself 
+Commit checkpoint: "Part 1: problem definition" 
